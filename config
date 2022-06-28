@@ -195,7 +195,7 @@ bar {
 	    status_command ~/.local/bin/bumblebee-status -m nic disk:root cpu \
 		    memory date time pasink pasource \
 		    -p root.path=/ time.format="%I:%M %p" date.format="%a, %b %d %Y" \
-		    -t onedark-powerline
+		    -t default
 }
 
 
