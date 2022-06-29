@@ -6,6 +6,7 @@
 #
 
 exec picom
+exec nitrogen --restore
 
 # i3 config file (v4)
 #
