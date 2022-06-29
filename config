@@ -118,9 +118,9 @@ set $ws9 "9"
 set $ws10 "10"
 
 #start workspaces
-#workspace 1 output DVI-D-0
-#workspace 2 output HDMI-1
-#workspace 3 output DVI-I-1-1
+workspace 1 output DVI-D-0
+workspace 2 output HDMI-1
+workspace 3 output DVI-I-1-1
 workspace 4 output DVI-D-0
 workspace 5 output HDMI-1
 workspace 6 output DVI-I-1-1
