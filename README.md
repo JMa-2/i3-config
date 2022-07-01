@@ -5,3 +5,4 @@
 - Nitrogen `sudo apt install nitrogen`
 - rofi `sudo apt install rofi`
 - [rofi themes](https://github.com/adi1090x/rofi)
+- Kitty `sudo apt install kitty`
